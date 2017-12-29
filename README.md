@@ -52,3 +52,7 @@
 
    - Drools解决复杂逻辑问题
    [Drools-ComplexProblem](https://github.com/MyHerux/drools-springboot/blob/master/Drools-ComplexProblem.md)
+   
+   
+打开swagger-ui
+http://localhost:8081/swagger-ui.html
